@@ -13,7 +13,7 @@
     background-color: #ffffff;
 }
 .bg-color-work-history{
-    background-color: 	#A9A9A9;  
+    background-color: #A9A9A9;  
 }
 
 .bg-color-contact{
@@ -318,13 +318,9 @@ footer .cv-pdf:hover{
 .history-items{
     margin-bottom: 30px;
 }
-.work-section
-{
-    margin-top:40px;
 
-}
 
-/*--------------------------------------------Media Queries*/
+/*--------------------------------------------Contact*/
 
 .contact-heading{
     font-family: "Exo",sans-serif;
